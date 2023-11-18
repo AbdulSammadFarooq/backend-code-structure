@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Basic folder structure of backend using nodejs",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "start": "",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -15,5 +17,9 @@
     "mongoDB"
   ],
   "author": "Abdul Sammad",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "prettier": "^3.1.0"
+  }
 }
