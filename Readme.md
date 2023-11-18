@@ -1,0 +1,1 @@
+# This is basic folder structure of backend of any application using node js
